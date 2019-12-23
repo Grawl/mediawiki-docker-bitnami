@@ -1,0 +1,6 @@
+.env
+/mediawiki/extensions
+/mediawiki/images
+/mediawiki/skins
+/mediawiki/.restored
+/mediawiki/.initialized
