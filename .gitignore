@@ -1,6 +1,13 @@
 .env
 /mediawiki/extensions
-/mediawiki/images
-/mediawiki/skins
+!/mediawiki/images/static
+/mediawiki/images/*
+/mediawiki/skins/README
+/mediawiki/skins/MonoBook
+/mediawiki/skins/Timeless
+/mediawiki/skins/Vector/*
+!/mediawiki/skins/Vector/add
+!/mediawiki/skins/Vector/screen.less
+!/mediawiki/skins/Vector
 /mediawiki/.restored
 /mediawiki/.initialized
