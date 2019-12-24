@@ -125,3 +125,6 @@ wfLoadSkin( 'Vector' );
 
 # End of automatically generated settings.
 # Add more configuration options below.
+
+$wgFavicon = '/images/static/manifest/favicon.ico';
+$wgAppleTouchIcon = '/images/static/manifest/apple-touch-icon';
