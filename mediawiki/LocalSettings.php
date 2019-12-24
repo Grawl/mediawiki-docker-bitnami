@@ -125,6 +125,9 @@ wfLoadSkin( 'Vector' );
 
 # End of automatically generated settings.
 # Add more configuration options below.
-
+// Manifest
 $wgFavicon = '/images/static/manifest/favicon.ico';
 $wgAppleTouchIcon = '/images/static/manifest/apple-touch-icon';
+// MobileFrontend plugin
+wfLoadExtension( 'MobileFrontend' );
+$wgMFDefaultSkinClass = 'SkinVector';
